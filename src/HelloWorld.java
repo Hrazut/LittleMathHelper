@@ -6,5 +6,5 @@ public class HelloWorld {
 		//Jan macht ne Änderung... lalalala
 		System.out.println("Hello new World!");
 	}
-
+	//Hrazut
 }
